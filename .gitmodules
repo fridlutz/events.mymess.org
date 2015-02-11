@@ -1,0 +1,3 @@
+[submodule "jquery-advanced-news-ticker"]
+	path = jquery-advanced-news-ticker
+	url = https://github.com/fridlutz/jquery-advanced-news-ticker.git
